@@ -1,0 +1,16 @@
+{
+  "consul": {
+    "host": "consul",
+    "port": 8500
+  },
+  "mysql": {
+    "db": "ginmicro_user_srv",
+    "host": "mysql",
+    "password": "123456",
+    "port": 3306,
+    "user": "root"
+  },
+  "name": "user-srv",
+  "host": "golang",
+  "port": 8000
+}

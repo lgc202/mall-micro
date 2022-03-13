@@ -1,0 +1,7 @@
+dataid: user-srv
+group: DEFAULT_GROUP
+host: nacos
+namespace: 21bcea2e-ee56-4ded-9528-8e4c10b78eed
+password: nacos
+port: 8848
+user: nacos
